@@ -7,9 +7,9 @@ Auto-configuration module for the Acme Logging library that automatically config
 This project is part of the Acme Logging starter architecture:
 
 - **acme-logging** - Core library containing `AcmeLogger` and `LogLevel` classes
-  - GitHub repo: git@github.com:rafaspimenta/acme-logging.git
+  - GitHub repo: https://github.com/rafaspimenta/acme-logging
 - **acme-logging-spring-boot-autoconfigure** - Auto-configuration module (this project)
-  - GitHub repo: git@github.com:rafaspimenta/acme-logging-spring-boot-autoconfigure.git
+  - GitHub repo: https://github.com/rafaspimenta/acme-logging-spring-boot-autoconfigure
 - **acme-logging-spring-boot-starter** - Starter module that imports the auto-configuration
   - GitHub repo: (TBD)
 
