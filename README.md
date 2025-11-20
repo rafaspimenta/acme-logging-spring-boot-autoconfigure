@@ -11,7 +11,7 @@ This project is part of the Acme Logging starter architecture:
 - **acme-logging-spring-boot-autoconfigure** - Auto-configuration module (this project)
   - GitHub repo: https://github.com/rafaspimenta/acme-logging-spring-boot-autoconfigure
 - **acme-logging-spring-boot-starter** - Starter module that imports the auto-configuration
-  - GitHub repo: (TBD)
+  - GitHub repo: https://github.com/rafaspimenta/acme-logging-spring-boot-starter
 
 ## Features
 
