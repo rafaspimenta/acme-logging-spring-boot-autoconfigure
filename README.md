@@ -32,18 +32,6 @@ acme.logging.level=INFO
 
 ## Usage
 
-### Recommended: Use the Starter
-
-```xml
-<dependency>
-    <groupId>com.pimenta</groupId>
-    <artifactId>acme-logging-spring-boot-starter</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-</dependency>
-```
-
-### Direct Dependency (Advanced)
-
 ```xml
 <dependency>
     <groupId>com.pimenta</groupId>
@@ -51,8 +39,6 @@ acme.logging.level=INFO
     <version>0.0.1-SNAPSHOT</version>
 </dependency>
 ```
-
-**Note**: Also include `acme-logging` core dependency.
 
 ## Requirements
 
